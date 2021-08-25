@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-  This analysis serves to visualize how other Theater campaigns faired based on their launch date and their fundraising goals to help Louise better understand why her play came close to her fundraising goal in a short amoung of time.
+  This analysis serves to visualize how other Theater campaigns faired based on their launch date and their fundraising goals to help Louise better understand why her play came close to her fundraising goal in a short amount of time.
 
 ## Analysis and Challenges
 
