@@ -20,7 +20,7 @@ First I created a new worksheet and named 12 different rows with 12 different ra
 
 <img src ="https://github.com/AbsoluteMorty/Kickstarter-Analysis/blob/main/Resources/Goals%20Chart.png" width="600">
 
-I filled out the data in Number successful , failed, and canceled by using the CountIfs() formula 
+I filled out the data in Number Successful, Failed, and Canceled by using the CountIfs() formula 
 > =COUNTIFS(Kickstarter!$D:$D, "<1000", Kickstarter!$F:$F, "successful", Kickstarter!R:R, "Plays")
 > 
 > =COUNTIFS(Kickstarter!$D:$D, ">=1000",Kickstarter!$D:$D, "<4999", Kickstarter!$F:$F, "successful", Kickstarter!R:R, "Plays")
